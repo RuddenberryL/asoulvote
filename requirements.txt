@@ -1,0 +1,3 @@
+qq-bot
+pyyaml
+clickhouse-driver
